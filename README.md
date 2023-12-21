@@ -21,4 +21,4 @@ Taken from: https://man.openbsd.org/ssh_config#ProxyCommand
 
 A submodule which would exploit this vulnerability to pop a calculator on OSX.
 
-Try it out using: `git clone https://github.com/vin01/poc-proxycommand-vulnerable --recurse-submodules`
+Try it out using: `git clone https://github.com/vin01/poc-proxycommand-vulnerable-v2 --recurse-submodules`
